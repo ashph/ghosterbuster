@@ -14,9 +14,9 @@
 
 **GhosterBuster helps recruiting teams spot stale candidates and follow through with a thoughtful update.** A color-coded tracker makes inactivity visible. A scheduled automation sends an internal alert with candidate context and three follow-up options. The recruiter chooses a message, reviews it, and sends it from their email client.
 
-**[Watch the GhosterBuster demo video →](./media/ghosterbuster-demo.mp4)**
+**[Download the GhosterBuster demo video (MP4) →](https://github.com/ashph/ghosterbuster/raw/refs/heads/main/media/ghosterbuster-demo.mp4)**
 
-The Canva video is included in this repository. Open the link to view or download the MP4.
+The Canva video is included in this repository. Download it to watch the demo.
 
 ## The challenge
 
