@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">GhosterBuster</title><desc id="desc">Never ghost a candidate again. Track inactivity, alert the recruiter, review and send.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08070C"/><stop offset=".65" stop-color="#1B102B"/><stop offset="1" stop-color="#0A090D"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#F97316"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A78BFA" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<rect x="66" y="44" width="318" height="34" rx="17" fill="#F97316" fill-opacity=".12" stroke="#F97316" stroke-opacity=".45"/>
+<circle cx="85" cy="61" r="5" fill="#F97316"/><text x="100" y="66" fill="#FDBA74" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">CANDIDATE COMMUNICATION</text>
+<text x="66" y="161" fill="#FAF7FF" font-family="Georgia,serif" font-size="68" font-weight="700">GhosterBuster</text>
+<text x="69" y="210" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="28">Never ghost a candidate again.</text>
+<rect x="69" y="244" width="680" height="4" rx="2" fill="url(#accent)"/>
+<text x="69" y="287" fill="#D6D0DF" font-family="Arial,sans-serif" font-size="18">Spot inactivity. Alert the recruiter. Review and send.</text>
+<text x="69" y="325" fill="#9B90AA" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.6">ROCKY PHOENIX AI</text>
+<g transform="translate(983 163)">
+<circle r="109" fill="#7C3AED" fill-opacity=".11" stroke="#7C3AED" stroke-opacity=".3"/>
+<path d="M-55 70V-22a55 55 0 0 1 110 0v92L28 51 0 71-28 51Z" fill="#FAF7FF"/>
+<ellipse cx="-19" cy="-15" rx="8" ry="12" fill="#271637"/><ellipse cx="19" cy="-15" rx="8" ry="12" fill="#271637"/>
+<path d="M-15 18q15 16 30 0" fill="none" stroke="#7C3AED" stroke-width="5" stroke-linecap="round"/>
+<circle cx="62" cy="48" r="29" fill="#F97316"/><path d="m49 48 9 9 18-20" fill="none" stroke="#FFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect x="1.5" y="1.5" width="1197" height="357" rx="22.5" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="3"/>
+</svg>
